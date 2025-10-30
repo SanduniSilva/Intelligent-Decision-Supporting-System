@@ -25,3 +25,5 @@ process without involving huge number of staff and gain
 efficient process that everyone like and trust. </p> <br>
 Keywords—IDSS (intelligent decision support system), 
 education, applying for admissions.
+
+[View the Full Report](https://github.com/SanduniSilva/Intelligent-Decision-Supporting-System/blob/6e62ad016022fd64d67d1d1efea372a281e14149/Report.pdf)
